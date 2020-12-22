@@ -1,0 +1,17 @@
+package com.example.xiaoshixun_mvpchouqu_1.mvp.di.component;
+
+
+import com.example.xiaoshixun_mvpchouqu_1.mvp.mvp.model.OkManager;
+import com.example.xiaoshixun_mvpchouqu_1.mvp.mvp.model.RxOpretorlmpl;
+
+import javax.inject.Singleton;
+
+import dagger.Component;
+
+//注射器
+@Singleton
+@Component(modules = OkManager.class)
+public interface OkComponent {
+    //自定义的方法
+    void getSingleApiService(RxOpretorlmpl impl);
+}
