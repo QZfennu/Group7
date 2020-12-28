@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AndroidXiaoShiXun\\Day11\\day11_zuoye\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "E:\\AndroidXiaoShiXun\\Day11\\jiguang\\build\\intermediates\\packaged_res\\debug\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,166,220",
+                        "endColumns": "56,53,53,53",
+                        "endOffsets": "107,161,215,269"
+                    }
+                }
+            ]
+        }
+    ]
+}
