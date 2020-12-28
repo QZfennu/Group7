@@ -1,0 +1,843 @@
+-- Merging decision tree log ---
+category#com.example.demo_tuisongtext
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:30:17-61
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:38:17-61
+	android:name
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:30:27-58
+manifest
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:2:1-63:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3fb084916beca5dd31dcf33bed719b10\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bcaf2f38bd0e6ffe04a17e5f685cbed4\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3a4bf45ee1cd2799bf6d0559eb3917d7\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-336:12
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bf9fe2c920747fc8887d65d599c47d6a\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\b05b2a738edf8b82097cbcc8ce0cfd69\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\51c4c178afaeff173cfa265953a5c82e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\28174e475fcfd6ae966ed5772f6694ac\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\ce61250d0f7070aaab97d5c03ab2ab2e\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\5a84463fe3bd90b9ee3ed76258f5efd9\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\385ad0333dd34005ac3b322f68c176b9\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\32e32c376d22cae962a95f2aba892822\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\ab482c9af1b0695a8fb7a5348063e87e\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\86564163a688b7c5915aebbf0594d3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\e968a555a0e08b03627a3441cae31e6b\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\0173e97803654dcbfad44abe4036c6e5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\fe1f2403fb0b1030c0f13fe1c33f65ab\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\c3d8ec33b66c793058ded980a54c4fd5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\4d3e32c2f901863288c7ff80fcf0967a\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3cf213e33fb5a76421a4e937ff33f07e\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bde687302d742df89f7d227a2e48b0d9\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\39b4f59a835527a351392d1b387458e1\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d11ce741c2c27f6eeb8e3514151430d9\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\2e09c7ef123dbe20d48a07a2d95cb3bd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\0eaeed0f116c50443b846f22ed279353\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\c53a1cf06eec9ec8e2c1fa79d76edf7f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\275bb0cd718ded38eec8234e7513c16c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\fc12b1d7b1a887a81ff1f750b0b473c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\6a5aacb22b562922820652a32ac05ba6\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3f5e37635a712470204c0315e55f1003\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\552d05fff7df0b1caee9db39c74659fe\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\8a52da53b02a83b08615debb9b2e109c\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\ed8cc0ac00b11c0234ef1e5a578c70c1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\df4d09f70e3f533a2fede8f96085147c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\c16c855844b564ee7204d4d6005470fb\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:2:1-63:12
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:2:1-63:12
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:5:5-61:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3fb084916beca5dd31dcf33bed719b10\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3fb084916beca5dd31dcf33bed719b10\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bcaf2f38bd0e6ffe04a17e5f685cbed4\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bcaf2f38bd0e6ffe04a17e5f685cbed4\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:5-334:19
+MERGED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:5-334:19
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:13:5-29:19
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:13:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\b05b2a738edf8b82097cbcc8ce0cfd69\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\b05b2a738edf8b82097cbcc8ce0cfd69\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\2e09c7ef123dbe20d48a07a2d95cb3bd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\2e09c7ef123dbe20d48a07a2d95cb3bd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:6:9-28
+activity#com.example.text_demoto.MainActivity
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:13:9-59
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:13:19-47
+activity#com.example.text_demoto.HomeActivity
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:18:27-74
+receiver#com.example.text_demoto.MyReceiver
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:21:9-32:20
+	android:enabled
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:23:13-35
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:22:13-39
+intent-filter#action:name:cn.jpush.android.intent.CONNECTION+action:name:cn.jpush.android.intent.MESSAGE_RECEIVED+action:name:cn.jpush.android.intent.NOTIFICATION_OPENED+action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED+action:name:cn.jpush.android.intent.REGISTRATION+category:name:com.example.demo_tuisongtext
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:24:13-31:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:25:17-79
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:25:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:26:17-83
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:26:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:27:17-88
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:27:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:28:17-86
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:28:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:29:25-74
+receiver#com.example.text_demoto.PushMessageReceiver
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:34:9-40:20
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:34:19-54
+intent-filter#action:name:cn.jpush.android.intent.RECEIVE_MESSAGE+category:name:com.example.demo_tuisongtext
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:35:13-39:29
+action#cn.jpush.android.intent.RECEIVE_MESSAGE
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:36:25-79
+activity#com.example.text_demoto.OpenClickActivity
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:41:9-51:20
+	android:exported
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:42:13-46
+intent-filter#action:name:android.intent.action.VIEW+action:name:com.example.jpushdemo.OpenClickActivity+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:44:13-50:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:47:27-73
+action#com.example.jpushdemo.OpenClickActivity
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:49:17-82
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:49:25-79
+service#com.example.text_demoto.PushService
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:54:9-60:19
+	android:process
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:56:13-40
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:55:13-40
+intent-filter#action:name:cn.jiguang.user.service.action
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:57:13-59:29
+action#cn.jiguang.user.service.action
+ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:58:17-73
+	android:name
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml:58:25-70
+uses-sdk
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3fb084916beca5dd31dcf33bed719b10\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3fb084916beca5dd31dcf33bed719b10\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bcaf2f38bd0e6ffe04a17e5f685cbed4\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bcaf2f38bd0e6ffe04a17e5f685cbed4\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3a4bf45ee1cd2799bf6d0559eb3917d7\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3a4bf45ee1cd2799bf6d0559eb3917d7\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-10:1285
+MERGED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-10:1285
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bf9fe2c920747fc8887d65d599c47d6a\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bf9fe2c920747fc8887d65d599c47d6a\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\b05b2a738edf8b82097cbcc8ce0cfd69\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\b05b2a738edf8b82097cbcc8ce0cfd69\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\51c4c178afaeff173cfa265953a5c82e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\51c4c178afaeff173cfa265953a5c82e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\28174e475fcfd6ae966ed5772f6694ac\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\28174e475fcfd6ae966ed5772f6694ac\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\ce61250d0f7070aaab97d5c03ab2ab2e\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\ce61250d0f7070aaab97d5c03ab2ab2e\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\5a84463fe3bd90b9ee3ed76258f5efd9\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\5a84463fe3bd90b9ee3ed76258f5efd9\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\385ad0333dd34005ac3b322f68c176b9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\385ad0333dd34005ac3b322f68c176b9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\32e32c376d22cae962a95f2aba892822\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\32e32c376d22cae962a95f2aba892822\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\ab482c9af1b0695a8fb7a5348063e87e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\ab482c9af1b0695a8fb7a5348063e87e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\86564163a688b7c5915aebbf0594d3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\86564163a688b7c5915aebbf0594d3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\e968a555a0e08b03627a3441cae31e6b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\e968a555a0e08b03627a3441cae31e6b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\0173e97803654dcbfad44abe4036c6e5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\0173e97803654dcbfad44abe4036c6e5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\fe1f2403fb0b1030c0f13fe1c33f65ab\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\fe1f2403fb0b1030c0f13fe1c33f65ab\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\c3d8ec33b66c793058ded980a54c4fd5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\c3d8ec33b66c793058ded980a54c4fd5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\4d3e32c2f901863288c7ff80fcf0967a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\4d3e32c2f901863288c7ff80fcf0967a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3cf213e33fb5a76421a4e937ff33f07e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3cf213e33fb5a76421a4e937ff33f07e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bde687302d742df89f7d227a2e48b0d9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\bde687302d742df89f7d227a2e48b0d9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\39b4f59a835527a351392d1b387458e1\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\39b4f59a835527a351392d1b387458e1\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d11ce741c2c27f6eeb8e3514151430d9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d11ce741c2c27f6eeb8e3514151430d9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\905808b10bc47511b6c6896a37787f2b\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\2e09c7ef123dbe20d48a07a2d95cb3bd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\2e09c7ef123dbe20d48a07a2d95cb3bd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\0eaeed0f116c50443b846f22ed279353\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\0eaeed0f116c50443b846f22ed279353\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\c53a1cf06eec9ec8e2c1fa79d76edf7f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\c53a1cf06eec9ec8e2c1fa79d76edf7f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\275bb0cd718ded38eec8234e7513c16c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\275bb0cd718ded38eec8234e7513c16c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\fc12b1d7b1a887a81ff1f750b0b473c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\fc12b1d7b1a887a81ff1f750b0b473c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\6a5aacb22b562922820652a32ac05ba6\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\6a5aacb22b562922820652a32ac05ba6\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3f5e37635a712470204c0315e55f1003\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\3f5e37635a712470204c0315e55f1003\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\552d05fff7df0b1caee9db39c74659fe\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\552d05fff7df0b1caee9db39c74659fe\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\8a52da53b02a83b08615debb9b2e109c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\8a52da53b02a83b08615debb9b2e109c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\ed8cc0ac00b11c0234ef1e5a578c70c1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\ed8cc0ac00b11c0234ef1e5a578c70c1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\df4d09f70e3f533a2fede8f96085147c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\df4d09f70e3f533a2fede8f96085147c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\c16c855844b564ee7204d4d6005470fb\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\c16c855844b564ee7204d4d6005470fb\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-1282
+	android:targetSdkVersion
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\text_demoto\src\main\AndroidManifest.xml
+permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:47
+	android:protectionLevel
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-65
+permission#com.example.demo_tuisongtext.permission.JPUSH_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:47
+	android:protectionLevel
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-65
+uses-permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-78
+uses-permission#com.example.demo_tuisongtext.permission.JPUSH_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:22-70
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-84
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:22-73
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-91
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:22-88
+uses-permission#android.permission.VIBRATE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:5-78
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-85
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:22-82
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-89
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:22-65
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:5-77
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:22-74
+permission#${applicationId}.permission.MIPUSH_RECEIVE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:5-44:47
+	android:protectionLevel
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:9-44
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:9-66
+permission#com.example.demo_tuisongtext.permission.MIPUSH_RECEIVE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:5-44:47
+	android:protectionLevel
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:9-44
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:9-66
+uses-permission#${applicationId}.permission.MIPUSH_RECEIVE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:5-82
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:22-79
+uses-permission#com.example.demo_tuisongtext.permission.MIPUSH_RECEIVE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:5-82
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:22-79
+uses-permission#com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:5-86
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:11:5-86
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:11:5-86
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:22-83
+uses-permission#com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:5-85
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:5-68
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:22-65
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:5-84
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:22-81
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:5-74
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:5-71
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:22-68
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:9-75:20
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-36
+	android:theme
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-62
+intent-filter#action:name:cn.jpush.android.ui.PopWinActivity+category:name:${JPUSH_PKGNAME}+category:name:android.intent.category.DEFAULT
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-74:29
+intent-filter#action:name:cn.jpush.android.ui.PopWinActivity+category:name:android.intent.category.DEFAULT+category:name:com.example.demo_tuisongtext
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-74:29
+action#cn.jpush.android.ui.PopWinActivity
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:17-77
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:25-74
+category#${JPUSH_PKGNAME}
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:17-61
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:27-58
+activity#cn.jpush.android.ui.PushActivity
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:9-89:20
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:13-36
+	android:configChanges
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:80:13-63
+	android:theme
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:82:13-60
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:13-60
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:${JPUSH_PKGNAME}+category:name:android.intent.category.DEFAULT
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:83:13-88:29
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:android.intent.category.DEFAULT+category:name:com.example.demo_tuisongtext
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:83:13-88:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:84:17-75
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:84:25-72
+receiver#cn.jpush.android.service.SchedulerReceiver
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:93:9-95:40
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:95:13-37
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:94:13-70
+service#cn.jpush.android.service.MessagingIntentService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:98:9-83
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:98:18-80
+provider#cn.jpush.android.service.DataProvider
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:101:9-105:43
+	android:process
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:13-40
+	android:authorities
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:103:13-64
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:104:13-37
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:102:13-65
+provider#cn.jpush.android.service.DownloadProvider
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:107:9-110:39
+	android:authorities
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:13-68
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:110:13-36
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:108:13-69
+activity#cn.jpush.android.service.JNotifyActivity
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:113:9-123:20
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:115:13-36
+	android:theme
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:117:13-72
+	android:taskAffinity
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:116:13-48
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:114:13-68
+intent-filter#action:name:cn.jpush.android.intent.JNotifyActivity+category:name:${applicationId}
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:118:13-122:29
+intent-filter#action:name:cn.jpush.android.intent.JNotifyActivity+category:name:com.example.demo_tuisongtext
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:118:13-122:29
+action#cn.jpush.android.intent.JNotifyActivity
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:119:17-82
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:119:25-79
+category#${applicationId}
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:121:17-61
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:121:27-58
+receiver#cn.jpush.android.asus.AsusPushMessageReceiver
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:125:9-82
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:125:19-79
+service#cn.jpush.android.service.PushService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:132:9-143:19
+	android:process
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:136:13-40
+	android:enabled
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:134:13-35
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:135:13-37
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:133:13-64
+intent-filter#action:name:cn.jpush.android.intent.PUSH_TIME+action:name:cn.jpush.android.intent.PushService+action:name:cn.jpush.android.intent.REGISTER+action:name:cn.jpush.android.intent.REPORT
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:137:13-142:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:138:17-75
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:138:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:139:17-73
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:139:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:140:17-78
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:140:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:141:17-76
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:141:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:147:9-156:19
+	android:enabled
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:149:13-35
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:150:13-36
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:148:13-66
+intent-filter#action:name:cn.jpush.android.intent.DaemonService+category:name:${JPUSH_PKGNAME}
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:151:13-155:29
+intent-filter#action:name:cn.jpush.android.intent.DaemonService+category:name:com.example.demo_tuisongtext
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:151:13-155:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:152:17-80
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:152:25-77
+activity#cn.jpush.android.service.DActivity
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:158:9-169:20
+	android:enabled
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:160:13-35
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:161:13-36
+	android:theme
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:163:13-72
+	android:taskAffinity
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:162:13-48
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:159:13-62
+intent-filter#action:name:cn.jpush.android.intent.DActivity+category:name:${JPUSH_PKGNAME}
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:164:13-168:29
+intent-filter#action:name:cn.jpush.android.intent.DActivity+category:name:com.example.demo_tuisongtext
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:164:13-168:29
+action#cn.jpush.android.intent.DActivity
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:165:17-76
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:165:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:172:9-190:20
+	android:enabled
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:174:13-35
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:173:13-65
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+category:name:${JPUSH_PKGNAME}
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:175:13-178:29
+	android:priority
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:175:28-51
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+category:name:com.example.demo_tuisongtext
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:175:13-178:29
+	android:priority
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:175:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:176:17-94
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:176:25-91
+intent-filter#action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:179:13-182:29
+action#android.intent.action.USER_PRESENT
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:180:17-77
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:180:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:181:17-79
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:181:25-76
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:184:13-189:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:185:17-78
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:185:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:186:17-80
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:186:25-77
+data
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:188:17-50
+	android:scheme
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:188:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:193:9-195:40
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:195:13-37
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:194:13-66
+service#com.xiaomi.push.service.XMJobService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:200:9-205:43
+	android:process
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:205:13-40
+	android:enabled
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:202:13-35
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:203:13-37
+	android:permission
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:204:13-69
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:201:13-64
+service#com.xiaomi.push.service.XMPushService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:206:9-209:43
+	android:process
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:209:13-40
+	android:enabled
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:208:13-35
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:207:13-65
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:210:9-213:39
+	android:enabled
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:212:13-35
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:213:13-36
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:211:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:214:9-216:38
+	android:enabled
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:216:13-35
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:215:13-70
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:218:9-226:20
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:220:13-36
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:219:13-83
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+category:name:android.intent.category.DEFAULT
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:221:13-225:29
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:227:9-234:20
+	android:process
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:230:13-40
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:229:13-37
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:228:13-74
+intent-filter#action:name:com.xiaomi.push.PING_TIMER
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:231:13-233:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:232:17-69
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:232:25-66
+receiver#cn.jpush.android.service.PluginXiaomiPlatformsReceiver
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:235:9-247:20
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:237:13-36
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:236:13-82
+intent-filter#action:name:com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:238:13-240:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:239:17-76
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:239:25-73
+intent-filter#action:name:com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:241:13-243:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:242:17-76
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:242:25-73
+intent-filter#action:name:com.xiaomi.mipush.ERROR
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:244:13-246:29
+action#com.xiaomi.mipush.ERROR
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:245:17-66
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:245:25-63
+meta-data#XIAOMI_APPKEY
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:249:9-251:48
+	android:value
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:251:13-45
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:250:13-41
+meta-data#XIAOMI_APPID
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:252:9-254:47
+	android:value
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:254:13-44
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:253:13-40
+service#cn.jpush.android.service.PluginHuaweiPlatformsService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:259:9-265:19
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:261:13-37
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:260:13-81
+intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:262:13-264:29
+action#com.huawei.push.action.MESSAGING_EVENT
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:263:17-81
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:263:25-78
+service#cn.jpush.android.service.PluginOppoPushService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:270:9-276:19
+	android:permission
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:272:13-77
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:271:13-74
+intent-filter#action:name:com.coloros.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:273:13-275:29
+action#com.coloros.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:274:17-85
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:274:25-82
+service#com.heytap.msp.push.service.DataMessageCallbackService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:278:9-285:19
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:21:9-28:19
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:21:9-28:19
+	android:permission
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:280:13-77
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:279:13-82
+intent-filter#action:name:com.heytap.mcs.action.RECEIVE_MCS_MESSAGE+action:name:com.heytap.msp.push.RECEIVE_MCS_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:281:13-284:29
+action#com.heytap.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:282:17-84
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:282:25-81
+action#com.heytap.msp.push.RECEIVE_MCS_MESSAGE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:283:17-82
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:283:25-79
+meta-data#OPPO_APPKEY
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:286:9-288:46
+	android:value
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:288:13-43
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:287:13-39
+meta-data#OPPO_APPID
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:289:9-291:45
+	android:value
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:291:13-42
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:290:13-38
+meta-data#OPPO_APPSECRET
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:292:9-294:49
+	android:value
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:294:13-46
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:293:13-42
+receiver#cn.jpush.android.service.PluginVivoMessageReceiver
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:299:9-305:20
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:299:19-84
+intent-filter#action:name:com.vivo.pushclient.action.RECEIVE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:300:13-304:29
+action#com.vivo.pushclient.action.RECEIVE
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:303:17-77
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:303:25-74
+service#com.vivo.push.sdk.service.CommandClientService
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:307:9-309:39
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:309:13-36
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:308:13-74
+activity#com.vivo.push.sdk.LinkProxyClientActivity
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:311:9-315:75
+	android:screenOrientation
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:314:13-49
+	android:exported
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:313:13-37
+	android:theme
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:315:13-72
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:312:13-69
+meta-data#com.vivo.push.api_key
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:317:9-319:46
+	android:value
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:319:13-43
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:318:13-49
+meta-data#com.vivo.push.app_id
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:320:9-322:45
+	android:value
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:322:13-42
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:321:13-48
+meta-data#JPUSH_CHANNEL
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:327:9-329:48
+	android:value
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:329:13-45
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:328:13-41
+meta-data#JPUSH_APPKEY
+ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:330:9-332:47
+	android:value
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:332:13-44
+	android:name
+		ADDED from [:jiguang] C:\Users\WSH\AndroidStudioProjects\Demo_TuiSongText\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:331:13-40
+service#com.heytap.msp.push.service.CompatibleDataMessageCallbackService
+ADDED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:14:9-20:19
+	android:permission
+		ADDED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:16:13-77
+	android:name
+		ADDED from [:com.heytap.msp-push-2.1.0:] C:\Users\WSH\.gradle\caches\transforms-2\files-2.1\d0711b20f283f7108528a2b0d590131f\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:15:13-92
