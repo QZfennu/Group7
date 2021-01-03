@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="课程"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:text="更多>"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <ImageView
+        android:background="@drawable/ccc"
+        android:id="@+id/four_img1"
+        android:layout_width="120dp"
+        android:layout_height="60dp"/>
+
+    <TextView
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp"
+        android:text="股权投资基金基础知识(至尊VIP密训班)"
+        android:layout_toRightOf="@id/four_img1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/bbb"
+            android:id="@+id/four_img2"
+            android:layout_width="120dp"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:text="股权投资基金基础知识(至尊VIP密训班)"
+            android:layout_toRightOf="@id/four_img2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/aaa"
+            android:id="@+id/four_img3"
+            android:layout_width="120dp"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:text="股权投资基金基础知识(至尊VIP密训班)"
+            android:layout_toRightOf="@id/four_img3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/aaa"
+            android:id="@+id/four_img4"
+            android:layout_width="120dp"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:text="股权投资基金基础知识(至尊VIP密训班)"
+            android:layout_toRightOf="@id/four_img4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/aaa"
+            android:id="@+id/four_img5"
+            android:layout_width="120dp"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:text="股权投资基金基础知识(至尊VIP密训班)"
+            android:layout_toRightOf="@id/four_img5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/aaa"
+            android:id="@+id/four_img6"
+            android:layout_width="120dp"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:text="股权投资基金基础知识(至尊VIP密训班)"
+            android:layout_toRightOf="@id/four_img6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/aaa"
+            android:id="@+id/four_img7"
+            android:layout_width="120dp"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:text="股权投资基金基础知识(至尊VIP密训班)"
+            android:layout_toRightOf="@id/four_img7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/aaa"
+            android:id="@+id/four_img8"
+            android:layout_width="120dp"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:text="股权投资基金基础知识(至尊VIP密训班)"
+            android:layout_toRightOf="@id/four_img8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/aaa"
+            android:id="@+id/four_img9"
+            android:layout_width="120dp"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:text="股权投资基金基础知识(至尊VIP密训班)"
+            android:layout_toRightOf="@id/four_img9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+</LinearLayout>
