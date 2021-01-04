@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.HomeActivity">
+
+    <LinearLayout
+        android:layout_margin="18dp"
+        android:id="@+id/ll_activity_home"
+        app:layout_constraintTop_toTopOf="parent"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <androidx.appcompat.widget.SearchView
+            android:id="@+id/sv_activity_home"
+            android:layout_weight="8.5"
+            app:iconifiedByDefault="false"
+            app:queryHint="大家都在搜：同袍活动"
+            android:background="@drawable/shape_home_sv"
+            android:layout_width="0dp"
+            android:layout_height="50dp"/>
+
+        <ImageView
+            android:id="@+id/iv_activity_home"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ucrop_ic_scale"
+            android:layout_weight="1.5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_activity_home"
+        android:layout_marginTop="68dp"
+        android:layout_marginBottom="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bn_activity_home"
+        android:background="#FFF"
+        app:labelVisibilityMode="labeled"
+        app:itemIconSize="22dp"
+        app:itemTextAppearanceActive="@style/text_select"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:menu="@menu/item_home_bnv"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
