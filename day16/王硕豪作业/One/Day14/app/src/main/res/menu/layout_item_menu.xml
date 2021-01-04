@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_layout_item1"
+        android:icon="@drawable/select_shouye"
+        android:title="@string/shouye"/>
+    <item android:id="@+id/item_layout_item2"
+        android:icon="@drawable/select_xuanke"
+        android:title="@string/xuanke"/>
+    <item android:id="@+id/item_layout_item3"
+        android:icon="@drawable/select_xuexi"
+        android:title="@string/xuexi"/>
+    <item android:id="@+id/item_layout_item4"
+        android:icon="@drawable/select_wode"
+        android:title="@string/wode"/>
+</menu>

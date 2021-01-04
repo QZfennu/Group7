@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/item_home_home"
+        android:title="首页"
+        android:icon="@drawable/select_home_home"/>
+    <item android:id="@+id/item_home_comrade"
+        android:title="发现"
+        android:icon="@drawable/select_home_comrade"/>
+    <item android:id="@+id/item_home_add"
+        android:title=" "
+        android:icon="@drawable/iv_main_add"/>
+    <item android:id="@+id/item_home_interact"
+        android:title="商城"
+        android:icon="@drawable/select_home_interact"/>
+    <item android:id="@+id/item_home_mine"
+        android:title="我的"
+        android:icon="@drawable/select_home_mine"/>
+</menu>

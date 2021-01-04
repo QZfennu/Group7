@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day14</string>
+    <string name="skip">跳过</string>
+    <string name="sousuo">搜索</string>
+    <string name="info">短信</string>
+    <string name="shouye">首页</string>
+    <string name="xuanke">选课</string>
+    <string name="xuexi">学习</string>
+    <string name="wode">我的</string>
+</resources>

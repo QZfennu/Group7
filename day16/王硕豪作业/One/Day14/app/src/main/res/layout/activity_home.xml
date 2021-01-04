@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_home"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="55dp">
+
+        <ImageView
+            android:id="@+id/iv_home3"
+            android:src="@drawable/services"
+            android:layout_width="25dp"
+            android:layout_height="25dp"/>
+
+        <TextView
+            android:id="@+id/tv_home_toolbar"
+            android:layout_gravity="center"
+            android:textSize="18sp"
+            android:textColor="#000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:id="@+id/iv_home2"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center"
+            android:src="@drawable/xiala"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <FrameLayout
+        android:id="@+id/fl_home"
+        android:background="#F6F6F6"
+        android:layout_marginTop="55dp"
+        android:layout_marginBottom="55dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bn"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        app:itemIconSize="18dp"
+        app:labelVisibilityMode="labeled"
+        app:itemTextAppearanceActive="@style/tab_text_style"
+        app:itemTextAppearanceInactive="@style/tab_text_style_select"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:menu="@menu/layout_item_menu" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

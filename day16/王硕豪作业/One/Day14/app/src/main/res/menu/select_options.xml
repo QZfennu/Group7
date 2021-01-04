@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/item_options1"
+        android:title="@string/sousuo"
+        app:showAsAction="always"
+        android:icon="@drawable/sousuo"/>
+    <item android:id="@+id/item_options2"
+        android:icon="@drawable/info"
+        app:showAsAction="ifRoom"
+        android:title="@string/info"/>
+    <item android:id="@+id/item_options3"
+        android:icon="@drawable/shezhi"
+        app:showAsAction="ifRoom"
+        android:title="@string/info"/>
+</menu>
